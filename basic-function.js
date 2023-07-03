@@ -12,6 +12,7 @@ console.log(shoutOut()) // Menampilkan "Halo Function!" di console
 
 
 /*
+test
  BUATLAH KODE FUNCTION DISINI
 */
 
